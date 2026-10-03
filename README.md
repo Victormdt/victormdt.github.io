@@ -1,2 +1,1 @@
-# victormdt.github.io
-Min nettside jeg bruker for informasjon om meg og portefølje.
+Nettside om meg og min portefølje
